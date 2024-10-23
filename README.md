@@ -1,2 +1,1 @@
-# prion-flux
-Mathematical Modelling of the Transmission Dynamics of Diverse Prion Types Using Partial Differential Equations.
+# Mathematical Modeling of Neurodegenerative Disease Progression Using PDEs
