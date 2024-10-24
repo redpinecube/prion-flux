@@ -5,3 +5,13 @@ We employ partial differential equations (PDEs) to model the spatial and tempora
 
 Additionally, we incorporate hyperbolic PDEs to address the rapid changes observed during acute phases of prion infection. By simulating the progression of each prion type, we aim to elucidate the mechanisms underlying their varying rates of spread and impact on brain function.
 
+# General Timeline 
+
+1. Literature Review (2 Weeks)
+2. Model Development (2 Weeks)
+3. Model Analysis (3 Weeks)
+4. Numerical Simulations (2 Weeks)
+5. Visualizations (2 Weeks)
+6. Write Up Phase (2 Weeks)
+
+This timeline may be condensed if needed. 
